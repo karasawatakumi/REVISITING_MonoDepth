@@ -1,0 +1,9 @@
+ipython==7.16.1
+matplotlib==3.3.4
+omegaconf==2.0.6
+pandas==1.1.5
+scipy==1.5.4
+tensorboardX==1.4
+torch==1.6.0
+torchvision==0.7.0
+tqdm==4.59.0
