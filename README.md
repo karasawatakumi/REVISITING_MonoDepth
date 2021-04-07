@@ -60,7 +60,7 @@ The results about other metrics and the ablation study results are [here](./docs
 sh scripts/prepare_nyu2.sh
 ```
 
-[This script](./scripts/download_nyu2.sh) uses the downloading link in [J. Hue's repository](https://github.com/JunjH/Revisiting_Single_Depth_Estimation).
+[This script](./scripts/prepare_nyu2.sh) uses the downloading link in [J. Hu's repository](https://github.com/JunjH/Revisiting_Single_Depth_Estimation).
 
 
 ### Installation
