@@ -50,7 +50,8 @@ MAE | MSE | RMSE | ABS_REL | LG10 | DELTA1 | DELTA2 | DELTA3
 
 ### Others
 
-The results about other metrics and the ablation study results are [here](./docs/RESULTS.md).
+- The results about other metrics and the ablation study results are [here](./docs/RESULTS.md).
+- 2021.5.1 For the request in [#1](https://github.com/karasawatakumi/REVISITING_MonoDepth/issues/1), we uploaded a newly trained model [here](https://drive.google.com/drive/folders/1tuzbA_7is4RVi1oiQ3p_CZbUAl13Rj4s?usp=sharing). (Note that the scores are different from the ones above. See [#1](https://github.com/karasawatakumi/REVISITING_MonoDepth/issues/1) for the details about this model.)
 
 ## Preparation
 
